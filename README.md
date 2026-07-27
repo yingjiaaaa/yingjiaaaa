@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ying Jia! 👋
 
-<!--
-**yingjiaaaa/yingjiaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image]({BadgeURLHere})
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate student with experience in data science and AI. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: python,MySQL,C,C++
+- 🌍 Languages: Python,English,Chinese
+- 📫 How to reach me: yingj.wong@icloud.com
+- ⚡ Fun fact: I'm new to github 🫪
+
+## My Skills 🧠
+
+python https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+MySQL  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+
+
+
+
