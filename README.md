@@ -5,7 +5,7 @@
 
 I'm a passionate student with experience in data science and AI. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: python,MySQL,C,C++
+- 🌱 Currently learning: python,MySQL,C,C++,R
 - 🌍 Languages: Python,English,Chinese
 - 📫 How to reach me: yingj.wong@icloud.com
 - ⚡ Fun fact: I'm new to github 🫪
